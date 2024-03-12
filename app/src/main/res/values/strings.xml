@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">refaldiTugas2</string>
+
+    <string-array name="nama_hero">
+        <item>Miya</item>
+        <item>Balmond</item>
+        <item>Saber</item>
+        <item>Alice</item>
+        <item>Nana</item>
+    </string-array>
+
+    <string-array name="role_hero">
+        <item>Marksman</item>
+        <item>Fighter</item>
+        <item>Assassin</item>
+        <item>Mage/Tank</item>
+        <item>Mage</item>
+    </string-array>
+
+    <string-array name="foto_hero">
+        <item>miya</item>
+        <item>balmond</item>
+        <item>saber</item>
+        <item>alice</item>
+        <item>nana</item>
+    </string-array>
+</resources>
